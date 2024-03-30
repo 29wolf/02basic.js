@@ -37,3 +37,7 @@ console.log(city)
             {}
         ]
                 
+
+
+        // learn more api plz go to (random api )
+        // api tools name (json formatt)
